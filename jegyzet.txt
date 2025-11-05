@@ -1,2 +1,4 @@
 első sor : módosítás a master ágon (javitva)
 második sor:új fejlesztés
+
+ez a reset tesztje
