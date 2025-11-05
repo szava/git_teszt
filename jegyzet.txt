@@ -2,3 +2,5 @@ első sor : módosítás a master ágon (javitva)
 második sor:új fejlesztés
 
 Ez a stash tesztje
+
+stash old
