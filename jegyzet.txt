@@ -1,2 +1,2 @@
-első gyakorlás
+első sor javítás a fő verzióhoz
 második sor:új fejlesztés
