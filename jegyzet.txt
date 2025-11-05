@@ -1,2 +1,2 @@
-első sor : módosítás a master ágon
+első sor : módosítás a master ágon (javitva)
 második sor:új fejlesztés
