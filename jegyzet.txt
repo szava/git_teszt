@@ -1,2 +1,2 @@
-első gyakorlás
+első sor : módosítás a master ágon
 második sor:új fejlesztés
